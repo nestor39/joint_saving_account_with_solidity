@@ -17,7 +17,7 @@ In order to open and run this program you have to follow these steps:
 
 * type ```start .``` from Git Bash and you are going to be able to see the file inside the folder where you downloaded into your computer.
 
-Open (Remix IDE website)[https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.4+commit.c7e474f2.js] , load the file into the current workspace, compile and deploy the file.
+Open [Remix IDE website](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.4+commit.c7e474f2.js) , load the file into the current workspace, compile and deploy the file.
 
 
 
